@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\bin\Debug\net5.0\Conventions and standards.exe
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\bin\Debug\net5.0\Conventions and standards.deps.json
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\bin\Debug\net5.0\Conventions and standards.runtimeconfig.json
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\bin\Debug\net5.0\Conventions and standards.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\bin\Debug\net5.0\Conventions and standards.dll
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\bin\Debug\net5.0\ref\Conventions and standards.dll
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\bin\Debug\net5.0\Conventions and standards.pdb
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\obj\Debug\net5.0\Conventions and standards.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\obj\Debug\net5.0\Conventions and standards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\obj\Debug\net5.0\Conventions and standards.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\obj\Debug\net5.0\Conventions and standards.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\obj\Debug\net5.0\Conventions and standards.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\obj\Debug\net5.0\Conventions and standards.dll
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\obj\Debug\net5.0\ref\Conventions and standards.dll
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\obj\Debug\net5.0\Conventions and standards.pdb
+C:\Users\Pedro\source\repos\Conventions and standards\Conventions and standards\obj\Debug\net5.0\Conventions and standards.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\bin\Debug\net5.0\Method With Return.exe
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\bin\Debug\net5.0\Method With Return.deps.json
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\bin\Debug\net5.0\Method With Return.runtimeconfig.json
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\bin\Debug\net5.0\Method With Return.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\bin\Debug\net5.0\Method With Return.dll
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\bin\Debug\net5.0\ref\Method With Return.dll
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\bin\Debug\net5.0\Method With Return.pdb
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\obj\Debug\net5.0\Method With Return.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\obj\Debug\net5.0\Method With Return.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\obj\Debug\net5.0\Method With Return.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\obj\Debug\net5.0\Method With Return.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\obj\Debug\net5.0\Method With Return.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\obj\Debug\net5.0\Method With Return.dll
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\obj\Debug\net5.0\ref\Method With Return.dll
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\obj\Debug\net5.0\Method With Return.pdb
+C:\Users\Pedro\source\repos\Method With Return\Method With Return\obj\Debug\net5.0\Method With Return.genruntimeconfig.cache

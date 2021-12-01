@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\net5.0\ConsoleMethods.exe
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\net5.0\ConsoleMethods.deps.json
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\net5.0\ConsoleMethods.runtimeconfig.json
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\net5.0\ConsoleMethods.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\net5.0\ConsoleMethods.dll
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\net5.0\ref\ConsoleMethods.dll
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\bin\Debug\net5.0\ConsoleMethods.pdb
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.dll
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ref\ConsoleMethods.dll
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.pdb
+C:\Users\Pedro\source\repos\ConsoleMethods\ConsoleMethods\obj\Debug\net5.0\ConsoleMethods.genruntimeconfig.cache

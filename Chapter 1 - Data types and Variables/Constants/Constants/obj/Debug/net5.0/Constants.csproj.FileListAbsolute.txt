@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\Constants\Constants\bin\Debug\net5.0\Constants.exe
+C:\Users\Pedro\source\repos\Constants\Constants\bin\Debug\net5.0\Constants.deps.json
+C:\Users\Pedro\source\repos\Constants\Constants\bin\Debug\net5.0\Constants.runtimeconfig.json
+C:\Users\Pedro\source\repos\Constants\Constants\bin\Debug\net5.0\Constants.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Constants\Constants\bin\Debug\net5.0\Constants.dll
+C:\Users\Pedro\source\repos\Constants\Constants\bin\Debug\net5.0\ref\Constants.dll
+C:\Users\Pedro\source\repos\Constants\Constants\bin\Debug\net5.0\Constants.pdb
+C:\Users\Pedro\source\repos\Constants\Constants\obj\Debug\net5.0\Constants.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Constants\Constants\obj\Debug\net5.0\Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Constants\Constants\obj\Debug\net5.0\Constants.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Constants\Constants\obj\Debug\net5.0\Constants.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Constants\Constants\obj\Debug\net5.0\Constants.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Constants\Constants\obj\Debug\net5.0\Constants.dll
+C:\Users\Pedro\source\repos\Constants\Constants\obj\Debug\net5.0\ref\Constants.dll
+C:\Users\Pedro\source\repos\Constants\Constants\obj\Debug\net5.0\Constants.pdb
+C:\Users\Pedro\source\repos\Constants\Constants\obj\Debug\net5.0\Constants.genruntimeconfig.cache

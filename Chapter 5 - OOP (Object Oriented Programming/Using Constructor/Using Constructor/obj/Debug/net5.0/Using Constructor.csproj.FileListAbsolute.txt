@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\bin\Debug\net5.0\Using Constructor.exe
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\bin\Debug\net5.0\Using Constructor.deps.json
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\bin\Debug\net5.0\Using Constructor.runtimeconfig.json
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\bin\Debug\net5.0\Using Constructor.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\bin\Debug\net5.0\Using Constructor.dll
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\bin\Debug\net5.0\ref\Using Constructor.dll
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\bin\Debug\net5.0\Using Constructor.pdb
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\obj\Debug\net5.0\Using Constructor.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\obj\Debug\net5.0\Using Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\obj\Debug\net5.0\Using Constructor.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\obj\Debug\net5.0\Using Constructor.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\obj\Debug\net5.0\Using Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\obj\Debug\net5.0\Using Constructor.dll
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\obj\Debug\net5.0\ref\Using Constructor.dll
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\obj\Debug\net5.0\Using Constructor.pdb
+C:\Users\Pedro\source\repos\Chapter 5 - OOP (Object Oriented Programming\Using Constructor\Using Constructor\obj\Debug\net5.0\Using Constructor.genruntimeconfig.cache

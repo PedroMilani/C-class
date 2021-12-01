@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Challenge ternary operator (enhanced if)/1.0.0": {
+        "runtime": {
+          "Challenge ternary operator (enhanced if).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Challenge ternary operator (enhanced if)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

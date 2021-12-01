@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\Conversation\Conversation\bin\Debug\net5.0\Conversation.exe
+C:\Users\Pedro\source\repos\Conversation\Conversation\bin\Debug\net5.0\Conversation.deps.json
+C:\Users\Pedro\source\repos\Conversation\Conversation\bin\Debug\net5.0\Conversation.runtimeconfig.json
+C:\Users\Pedro\source\repos\Conversation\Conversation\bin\Debug\net5.0\Conversation.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Conversation\Conversation\bin\Debug\net5.0\Conversation.dll
+C:\Users\Pedro\source\repos\Conversation\Conversation\bin\Debug\net5.0\ref\Conversation.dll
+C:\Users\Pedro\source\repos\Conversation\Conversation\bin\Debug\net5.0\Conversation.pdb
+C:\Users\Pedro\source\repos\Conversation\Conversation\obj\Debug\net5.0\Conversation.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Conversation\Conversation\obj\Debug\net5.0\Conversation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Conversation\Conversation\obj\Debug\net5.0\Conversation.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Conversation\Conversation\obj\Debug\net5.0\Conversation.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Conversation\Conversation\obj\Debug\net5.0\Conversation.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Conversation\Conversation\obj\Debug\net5.0\Conversation.dll
+C:\Users\Pedro\source\repos\Conversation\Conversation\obj\Debug\net5.0\ref\Conversation.dll
+C:\Users\Pedro\source\repos\Conversation\Conversation\obj\Debug\net5.0\Conversation.pdb
+C:\Users\Pedro\source\repos\Conversation\Conversation\obj\Debug\net5.0\Conversation.genruntimeconfig.cache

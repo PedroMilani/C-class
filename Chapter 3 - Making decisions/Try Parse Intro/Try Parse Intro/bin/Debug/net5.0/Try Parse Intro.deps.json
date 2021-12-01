@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Try Parse Intro/1.0.0": {
+        "runtime": {
+          "Try Parse Intro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Try Parse Intro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

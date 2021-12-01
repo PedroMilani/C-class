@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\bin\Debug\net5.0\Nested If Statements.exe
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\bin\Debug\net5.0\Nested If Statements.deps.json
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\bin\Debug\net5.0\Nested If Statements.runtimeconfig.json
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\bin\Debug\net5.0\Nested If Statements.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\bin\Debug\net5.0\Nested If Statements.dll
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\bin\Debug\net5.0\ref\Nested If Statements.dll
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\bin\Debug\net5.0\Nested If Statements.pdb
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\obj\Debug\net5.0\Nested If Statements.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\obj\Debug\net5.0\Nested If Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\obj\Debug\net5.0\Nested If Statements.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\obj\Debug\net5.0\Nested If Statements.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\obj\Debug\net5.0\Nested If Statements.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\obj\Debug\net5.0\Nested If Statements.dll
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\obj\Debug\net5.0\ref\Nested If Statements.dll
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\obj\Debug\net5.0\Nested If Statements.pdb
+C:\Users\Pedro\source\repos\Nested If Statements\Nested If Statements\obj\Debug\net5.0\Nested If Statements.genruntimeconfig.cache

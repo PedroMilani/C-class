@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Enhanced If Statements/1.0.0": {
+        "runtime": {
+          "Enhanced If Statements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enhanced If Statements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\obj\Debug\net5.0\ChallengeStringAndItsMethods.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\obj\Debug\net5.0\ChallengeStringAndItsMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\obj\Debug\net5.0\ChallengeStringAndItsMethods.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\obj\Debug\net5.0\ChallengeStringAndItsMethods.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\obj\Debug\net5.0\ChallengeStringAndItsMethods.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\bin\Debug\net5.0\ChallengeStringAndItsMethods.exe
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\bin\Debug\net5.0\ChallengeStringAndItsMethods.deps.json
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\bin\Debug\net5.0\ChallengeStringAndItsMethods.runtimeconfig.json
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\bin\Debug\net5.0\ChallengeStringAndItsMethods.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\bin\Debug\net5.0\ChallengeStringAndItsMethods.dll
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\bin\Debug\net5.0\ref\ChallengeStringAndItsMethods.dll
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\bin\Debug\net5.0\ChallengeStringAndItsMethods.pdb
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\obj\Debug\net5.0\ChallengeStringAndItsMethods.dll
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\obj\Debug\net5.0\ref\ChallengeStringAndItsMethods.dll
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\obj\Debug\net5.0\ChallengeStringAndItsMethods.pdb
+C:\Users\Pedro\source\repos\ChallengeStringAndItsMethods\ChallengeStringAndItsMethods\obj\Debug\net5.0\ChallengeStringAndItsMethods.genruntimeconfig.cache

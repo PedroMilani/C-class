@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\obj\Debug\net5.0\Challenge datatype and variables.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\obj\Debug\net5.0\Challenge datatype and variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\obj\Debug\net5.0\Challenge datatype and variables.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\obj\Debug\net5.0\Challenge datatype and variables.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\obj\Debug\net5.0\Challenge datatype and variables.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\bin\Debug\net5.0\Challenge datatype and variables.exe
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\bin\Debug\net5.0\Challenge datatype and variables.deps.json
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\bin\Debug\net5.0\Challenge datatype and variables.runtimeconfig.json
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\bin\Debug\net5.0\Challenge datatype and variables.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\bin\Debug\net5.0\Challenge datatype and variables.dll
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\bin\Debug\net5.0\ref\Challenge datatype and variables.dll
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\bin\Debug\net5.0\Challenge datatype and variables.pdb
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\obj\Debug\net5.0\Challenge datatype and variables.dll
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\obj\Debug\net5.0\ref\Challenge datatype and variables.dll
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\obj\Debug\net5.0\Challenge datatype and variables.pdb
+C:\Users\Pedro\source\repos\Challenge datatype and variables\Challenge datatype and variables\obj\Debug\net5.0\Challenge datatype and variables.genruntimeconfig.cache

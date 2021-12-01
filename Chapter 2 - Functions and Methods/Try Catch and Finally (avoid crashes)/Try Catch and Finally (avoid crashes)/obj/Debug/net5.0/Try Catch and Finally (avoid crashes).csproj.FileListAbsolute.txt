@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\bin\Debug\net5.0\Try Catch and Finally (avoid crashes).exe
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\bin\Debug\net5.0\Try Catch and Finally (avoid crashes).deps.json
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\bin\Debug\net5.0\Try Catch and Finally (avoid crashes).runtimeconfig.json
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\bin\Debug\net5.0\Try Catch and Finally (avoid crashes).runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\bin\Debug\net5.0\Try Catch and Finally (avoid crashes).dll
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\bin\Debug\net5.0\ref\Try Catch and Finally (avoid crashes).dll
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\bin\Debug\net5.0\Try Catch and Finally (avoid crashes).pdb
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\obj\Debug\net5.0\Try Catch and Finally (avoid crashes).csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\obj\Debug\net5.0\Try Catch and Finally (avoid crashes).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\obj\Debug\net5.0\Try Catch and Finally (avoid crashes).AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\obj\Debug\net5.0\Try Catch and Finally (avoid crashes).AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\obj\Debug\net5.0\Try Catch and Finally (avoid crashes).csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\obj\Debug\net5.0\Try Catch and Finally (avoid crashes).dll
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\obj\Debug\net5.0\ref\Try Catch and Finally (avoid crashes).dll
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\obj\Debug\net5.0\Try Catch and Finally (avoid crashes).pdb
+C:\Users\Pedro\source\repos\Try Catch and Finally (avoid crashes)\Try Catch and Finally (avoid crashes)\obj\Debug\net5.0\Try Catch and Finally (avoid crashes).genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\bin\Debug\net5.0\Tic Tac Toe.exe
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\bin\Debug\net5.0\Tic Tac Toe.deps.json
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\bin\Debug\net5.0\Tic Tac Toe.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\bin\Debug\net5.0\Tic Tac Toe.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\bin\Debug\net5.0\Tic Tac Toe.dll
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\bin\Debug\net5.0\ref\Tic Tac Toe.dll
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\bin\Debug\net5.0\Tic Tac Toe.pdb
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0\Tic Tac Toe.dll
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0\ref\Tic Tac Toe.dll
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0\Tic Tac Toe.pdb
+C:\Users\Pedro\source\repos\C# Master Class\Tic Tac Toe\Tic Tac Toe\obj\Debug\net5.0\Tic Tac Toe.genruntimeconfig.cache

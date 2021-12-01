@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\bin\Debug\net5.0\Break and Continue.exe
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\bin\Debug\net5.0\Break and Continue.deps.json
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\bin\Debug\net5.0\Break and Continue.runtimeconfig.json
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\bin\Debug\net5.0\Break and Continue.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\bin\Debug\net5.0\Break and Continue.dll
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\bin\Debug\net5.0\ref\Break and Continue.dll
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\bin\Debug\net5.0\Break and Continue.pdb
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\obj\Debug\net5.0\Break and Continue.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\obj\Debug\net5.0\Break and Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\obj\Debug\net5.0\Break and Continue.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\obj\Debug\net5.0\Break and Continue.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\obj\Debug\net5.0\Break and Continue.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\obj\Debug\net5.0\Break and Continue.dll
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\obj\Debug\net5.0\ref\Break and Continue.dll
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\obj\Debug\net5.0\Break and Continue.pdb
+C:\Users\Pedro\source\repos\Break and Continue\Break and Continue\obj\Debug\net5.0\Break and Continue.genruntimeconfig.cache

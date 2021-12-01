@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Members and Finalizers-Destructors/1.0.0": {
+        "runtime": {
+          "Members and Finalizers-Destructors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Members and Finalizers-Destructors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

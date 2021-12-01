@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\bin\Debug\net5.0\Try Parse Intro.exe
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\bin\Debug\net5.0\Try Parse Intro.deps.json
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\bin\Debug\net5.0\Try Parse Intro.runtimeconfig.json
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\bin\Debug\net5.0\Try Parse Intro.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\bin\Debug\net5.0\Try Parse Intro.dll
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\bin\Debug\net5.0\ref\Try Parse Intro.dll
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\bin\Debug\net5.0\Try Parse Intro.pdb
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\obj\Debug\net5.0\Try Parse Intro.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\obj\Debug\net5.0\Try Parse Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\obj\Debug\net5.0\Try Parse Intro.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\obj\Debug\net5.0\Try Parse Intro.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\obj\Debug\net5.0\Try Parse Intro.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\obj\Debug\net5.0\Try Parse Intro.dll
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\obj\Debug\net5.0\ref\Try Parse Intro.dll
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\obj\Debug\net5.0\Try Parse Intro.pdb
+C:\Users\Pedro\source\repos\Try Parse Intro\Try Parse Intro\obj\Debug\net5.0\Try Parse Intro.genruntimeconfig.cache

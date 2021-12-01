@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Try Catch and Finally (avoid crashes)/1.0.0": {
+        "runtime": {
+          "Try Catch and Finally (avoid crashes).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Try Catch and Finally (avoid crashes)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\obj\Debug\net5.0\Challenge ternary operator (enhanced if).csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\obj\Debug\net5.0\Challenge ternary operator (enhanced if).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\obj\Debug\net5.0\Challenge ternary operator (enhanced if).AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\obj\Debug\net5.0\Challenge ternary operator (enhanced if).AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\obj\Debug\net5.0\Challenge ternary operator (enhanced if).csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\bin\Debug\net5.0\Challenge ternary operator (enhanced if).exe
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\bin\Debug\net5.0\Challenge ternary operator (enhanced if).deps.json
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\bin\Debug\net5.0\Challenge ternary operator (enhanced if).runtimeconfig.json
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\bin\Debug\net5.0\Challenge ternary operator (enhanced if).runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\bin\Debug\net5.0\Challenge ternary operator (enhanced if).dll
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\bin\Debug\net5.0\ref\Challenge ternary operator (enhanced if).dll
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\bin\Debug\net5.0\Challenge ternary operator (enhanced if).pdb
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\obj\Debug\net5.0\Challenge ternary operator (enhanced if).dll
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\obj\Debug\net5.0\ref\Challenge ternary operator (enhanced if).dll
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\obj\Debug\net5.0\Challenge ternary operator (enhanced if).pdb
+C:\Users\Pedro\source\repos\Challenge ternary operator (enhanced if)\Challenge ternary operator (enhanced if)\obj\Debug\net5.0\Challenge ternary operator (enhanced if).genruntimeconfig.cache

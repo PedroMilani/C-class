@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enhanced If Statements", "Enhanced If Statements\Enhanced If Statements.csproj", "{674373B5-F948-47FD-8CC9-1D66C4E3A9B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674373B5-F948-47FD-8CC9-1D66C4E3A9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674373B5-F948-47FD-8CC9-1D66C4E3A9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674373B5-F948-47FD-8CC9-1D66C4E3A9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674373B5-F948-47FD-8CC9-1D66C4E3A9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E8D275C-E7EE-4DA1-8F1B-CB86113566EF}
+	EndGlobalSection
+EndGlobal
