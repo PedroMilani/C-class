@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Dictionary
 {
@@ -31,12 +32,53 @@ namespace Dictionary
                 employeesDirectory.Add(emp.Role, emp);
             }
 
-            Employee emp1 = employeesDirectory["CEO"];
 
-            Console.WriteLine("Employee Name: {0}\nRole: {1}\nSalary: {2}",emp1.Name, emp1.Role, emp1.Salary);
+            for (int i = 0; i < employeesDirectory.Count; i++)
+            {
+                // using ElementAt(i) to return the key-value pair stored at index i
+                KeyValuePair<string, Employee> keyValuePair = employeesDirectory.ElementAt(i);
+                // print the key
+                Console.WriteLine("Key: {0}", keyValuePair.Key);
+                // storing the value in an employee object
+                Employee employeeValue = keyValuePair.Value;
+                // printing the properties of the employee object
+                Console.WriteLine("Employee Name: {0}", employeeValue.Name);
+                Console.WriteLine("Employee Role: {0}", employeeValue.Role);
+                Console.WriteLine("Employee Age: {0}", employeeValue.Age);
+                Console.WriteLine("Employee Salary: {0}", employeeValue.Salary);
+
+            }
 
 
-            Console.WriteLine("Hello World!");
+            string key = "CEO";
+            if (employeesDirectory.ContainsKey(key)) // check if the key exists
+            {
+                Employee emp1 = employeesDirectory["CEO"];
+                Console.WriteLine("Employee Name: {0}\nRole: {1}\nSalary: {2}", emp1.Name, emp1.Role, emp1.Salary);
+            }
+            else
+            {
+                Console.WriteLine("No employee found.");
+            }
+
+
+            Employee result = null;
+            // using TryGetValue() it returns true if the operation was succesful and false otherwise
+            if(employeesDirectory.TryGetValue("intern", out result))
+            {
+                Console.WriteLine("Value retrieved.");
+
+                Console.WriteLine("Employee Name: {0}", result.Name);
+                Console.WriteLine("Employee Role: {0}", result.Role);
+                Console.WriteLine("Employee Age: {0}", result.Age);
+                Console.WriteLine("Employee Salary: {0}", result.Salary);
+            }
+            else
+            {
+                Console.WriteLine("The key does not exist.");
+            }
+
+            Console.ReadKey();
         }
     }
 }
