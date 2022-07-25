@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\bin\Debug\net5.0\Regex Examples.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\bin\Debug\net5.0\Regex Examples.deps.json
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\bin\Debug\net5.0\Regex Examples.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\bin\Debug\net5.0\Regex Examples.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\bin\Debug\net5.0\Regex Examples.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\bin\Debug\net5.0\ref\Regex Examples.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\bin\Debug\net5.0\Regex Examples.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\obj\Debug\net5.0\Regex Examples.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\obj\Debug\net5.0\Regex Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\obj\Debug\net5.0\Regex Examples.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\obj\Debug\net5.0\Regex Examples.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\obj\Debug\net5.0\Regex Examples.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\obj\Debug\net5.0\Regex Examples.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\obj\Debug\net5.0\ref\Regex Examples.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\obj\Debug\net5.0\Regex Examples.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Regex Examples\Regex Examples\obj\Debug\net5.0\Regex Examples.genruntimeconfig.cache

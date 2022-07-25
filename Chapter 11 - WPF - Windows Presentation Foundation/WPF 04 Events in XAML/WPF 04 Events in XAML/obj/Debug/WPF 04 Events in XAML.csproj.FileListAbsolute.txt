@@ -1,0 +1,15 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\bin\Debug\WPF 04 Events in XAML.exe.config
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\bin\Debug\WPF 04 Events in XAML.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\bin\Debug\WPF 04 Events in XAML.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\obj\Debug\WPF 04 Events in XAML.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\obj\Debug\App.g.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\obj\Debug\WPF 04 Events in XAML_MarkupCompile.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\obj\Debug\WPF 04 Events in XAML_MarkupCompile.lref
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\obj\Debug\MainWindow.baml
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\obj\Debug\WPF 04 Events in XAML.g.resources
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\obj\Debug\WPF_04_Events_in_XAML.Properties.Resources.resources
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\obj\Debug\WPF 04 Events in XAML.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\obj\Debug\WPF 04 Events in XAML.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\obj\Debug\WPF 04 Events in XAML.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 04 Events in XAML\WPF 04 Events in XAML\obj\Debug\WPF 04 Events in XAML.pdb

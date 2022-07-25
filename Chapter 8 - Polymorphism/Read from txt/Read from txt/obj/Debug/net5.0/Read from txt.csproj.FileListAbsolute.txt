@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\bin\Debug\net5.0\Read from txt.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\bin\Debug\net5.0\Read from txt.deps.json
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\bin\Debug\net5.0\Read from txt.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\bin\Debug\net5.0\Read from txt.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\bin\Debug\net5.0\Read from txt.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\bin\Debug\net5.0\ref\Read from txt.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\bin\Debug\net5.0\Read from txt.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\obj\Debug\net5.0\Read from txt.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\obj\Debug\net5.0\Read from txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\obj\Debug\net5.0\Read from txt.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\obj\Debug\net5.0\Read from txt.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\obj\Debug\net5.0\Read from txt.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\obj\Debug\net5.0\Read from txt.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\obj\Debug\net5.0\ref\Read from txt.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\obj\Debug\net5.0\Read from txt.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Read from txt\Read from txt\obj\Debug\net5.0\Read from txt.genruntimeconfig.cache

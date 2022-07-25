@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eSSull6FpY3F16jFfOHf4qdDSoaQrT3TdPYz1YVDskB7JhMU17VMlufUpIX9ZrX5xpYkbewWP693WYqzqteuqg==",
+  "dgSpecHash": "AKAdNOL5oScTgiM3roiESuWAcvDbTmosvBDWIp+ggLbugqnOBqu0H4qEAgdM5gnY7KpqGMVl4H4/iPhgJCmkTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pedro\\source\\repos\\C# Master Class\\Chapter 6 - Collections in C#\\Get min value using params\\Get min value using params\\Get min value using params.csproj",
+  "projectFilePath": "C:\\Users\\Pedro\\source\\repos\\C# class\\Chapter 6 - Collections in C#\\Get min value using params\\Get min value using params\\Get min value using params.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

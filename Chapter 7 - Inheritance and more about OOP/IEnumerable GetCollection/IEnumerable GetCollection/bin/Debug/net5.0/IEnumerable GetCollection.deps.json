@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IEnumerable GetCollection/1.0.0": {
+        "runtime": {
+          "IEnumerable GetCollection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IEnumerable GetCollection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

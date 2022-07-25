@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\bin\Debug\net5.0\ThreadingBasics.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\bin\Debug\net5.0\ThreadingBasics.deps.json
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\bin\Debug\net5.0\ThreadingBasics.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\bin\Debug\net5.0\ThreadingBasics.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\bin\Debug\net5.0\ThreadingBasics.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\bin\Debug\net5.0\ref\ThreadingBasics.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\bin\Debug\net5.0\ThreadingBasics.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\obj\Debug\net5.0\ThreadingBasics.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\obj\Debug\net5.0\ThreadingBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\obj\Debug\net5.0\ThreadingBasics.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\obj\Debug\net5.0\ThreadingBasics.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\obj\Debug\net5.0\ThreadingBasics.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\obj\Debug\net5.0\ThreadingBasics.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\obj\Debug\net5.0\ref\ThreadingBasics.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\obj\Debug\net5.0\ThreadingBasics.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadingBasics\ThreadingBasics\obj\Debug\net5.0\ThreadingBasics.genruntimeconfig.cache

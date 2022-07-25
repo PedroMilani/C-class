@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\WPF 13 RadioButtons\bin\Debug\WPF 13 RadioButtons.exe.config
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\WPF 13 RadioButtons\bin\Debug\WPF 13 RadioButtons.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\WPF 13 RadioButtons\bin\Debug\WPF 13 RadioButtons.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\WPF 13 RadioButtons\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\WPF 13 RadioButtons\obj\Debug\App.g.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\WPF 13 RadioButtons\obj\Debug\WPF 13 RadioButtons_MarkupCompile.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\WPF 13 RadioButtons\obj\Debug\WPF 13 RadioButtons_MarkupCompile.lref
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\WPF 13 RadioButtons\obj\Debug\MainWindow.baml
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\WPF 13 RadioButtons\obj\Debug\WPF 13 RadioButtons.g.resources
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\WPF 13 RadioButtons\obj\Debug\WPF_13_RadioButtons.Properties.Resources.resources
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\WPF 13 RadioButtons\obj\Debug\WPF 13 RadioButtons.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\WPF 13 RadioButtons\obj\Debug\WPF 13 RadioButtons.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\WPF 13 RadioButtons\obj\Debug\WPF 13 RadioButtons.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\WPF 13 RadioButtons\obj\Debug\WPF 13 RadioButtons.pdb

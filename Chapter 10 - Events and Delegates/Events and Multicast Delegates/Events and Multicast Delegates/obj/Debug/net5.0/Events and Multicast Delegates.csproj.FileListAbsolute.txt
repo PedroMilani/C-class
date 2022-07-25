@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\bin\Debug\net5.0\Events and Multicast Delegates.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\bin\Debug\net5.0\Events and Multicast Delegates.deps.json
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\bin\Debug\net5.0\Events and Multicast Delegates.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\bin\Debug\net5.0\Events and Multicast Delegates.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\bin\Debug\net5.0\Events and Multicast Delegates.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\bin\Debug\net5.0\ref\Events and Multicast Delegates.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\bin\Debug\net5.0\Events and Multicast Delegates.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net5.0\Events and Multicast Delegates.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net5.0\Events and Multicast Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net5.0\Events and Multicast Delegates.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net5.0\Events and Multicast Delegates.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net5.0\Events and Multicast Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net5.0\Events and Multicast Delegates.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net5.0\ref\Events and Multicast Delegates.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net5.0\Events and Multicast Delegates.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Events and Multicast Delegates\Events and Multicast Delegates\obj\Debug\net5.0\Events and Multicast Delegates.genruntimeconfig.cache

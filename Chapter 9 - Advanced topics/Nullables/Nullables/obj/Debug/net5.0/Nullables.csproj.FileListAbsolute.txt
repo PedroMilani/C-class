@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\bin\Debug\net5.0\Nullables.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\bin\Debug\net5.0\Nullables.deps.json
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\bin\Debug\net5.0\Nullables.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\bin\Debug\net5.0\Nullables.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\bin\Debug\net5.0\Nullables.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\bin\Debug\net5.0\ref\Nullables.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\bin\Debug\net5.0\Nullables.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\obj\Debug\net5.0\Nullables.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\obj\Debug\net5.0\Nullables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\obj\Debug\net5.0\Nullables.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\obj\Debug\net5.0\Nullables.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\obj\Debug\net5.0\Nullables.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\obj\Debug\net5.0\Nullables.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\obj\Debug\net5.0\ref\Nullables.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\obj\Debug\net5.0\Nullables.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\Nullables\Nullables\obj\Debug\net5.0\Nullables.genruntimeconfig.cache

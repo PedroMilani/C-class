@@ -1,0 +1,15 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\bin\Debug\net5.0\Creating Delegate.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\bin\Debug\net5.0\Creating Delegate.deps.json
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\bin\Debug\net5.0\Creating Delegate.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\bin\Debug\net5.0\Creating Delegate.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\bin\Debug\net5.0\Creating Delegate.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\bin\Debug\net5.0\ref\Creating Delegate.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\bin\Debug\net5.0\Creating Delegate.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\obj\Debug\net5.0\Creating Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\obj\Debug\net5.0\Creating Delegate.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\obj\Debug\net5.0\Creating Delegate.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\obj\Debug\net5.0\Creating Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\obj\Debug\net5.0\Creating Delegate.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\obj\Debug\net5.0\ref\Creating Delegate.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\obj\Debug\net5.0\Creating Delegate.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 10 - Events and Delegates\Creating Delegate\Creating Delegate\obj\Debug\net5.0\Creating Delegate.genruntimeconfig.cache

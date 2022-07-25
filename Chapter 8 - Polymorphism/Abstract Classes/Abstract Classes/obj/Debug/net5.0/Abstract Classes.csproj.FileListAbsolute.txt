@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\bin\Debug\net5.0\Abstract Classes.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\bin\Debug\net5.0\Abstract Classes.deps.json
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\bin\Debug\net5.0\Abstract Classes.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\bin\Debug\net5.0\Abstract Classes.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\bin\Debug\net5.0\Abstract Classes.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\bin\Debug\net5.0\ref\Abstract Classes.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\bin\Debug\net5.0\Abstract Classes.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\obj\Debug\net5.0\Abstract Classes.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\obj\Debug\net5.0\Abstract Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\obj\Debug\net5.0\Abstract Classes.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\obj\Debug\net5.0\Abstract Classes.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\obj\Debug\net5.0\Abstract Classes.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\obj\Debug\net5.0\Abstract Classes.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\obj\Debug\net5.0\ref\Abstract Classes.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\obj\Debug\net5.0\Abstract Classes.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 8 - Polymorphism\Abstract Classes\Abstract Classes\obj\Debug\net5.0\Abstract Classes.genruntimeconfig.cache

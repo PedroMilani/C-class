@@ -1,0 +1,15 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\bin\Debug\WPF 07 Databiding.exe.config
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\bin\Debug\WPF 07 Databiding.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\bin\Debug\WPF 07 Databiding.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\obj\Debug\WPF 07 Databiding.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\obj\Debug\App.g.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\obj\Debug\WPF 07 Databiding_MarkupCompile.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\obj\Debug\WPF 07 Databiding_MarkupCompile.lref
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\obj\Debug\MainWindow.baml
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\obj\Debug\WPF 07 Databiding.g.resources
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\obj\Debug\WPF_07_Databiding.Properties.Resources.resources
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\obj\Debug\WPF 07 Databiding.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\obj\Debug\WPF 07 Databiding.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\obj\Debug\WPF 07 Databiding.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 07 Databiding\WPF 07 Databiding\obj\Debug\WPF 07 Databiding.pdb

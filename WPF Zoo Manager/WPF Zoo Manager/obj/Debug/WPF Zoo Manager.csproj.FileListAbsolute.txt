@@ -1,0 +1,15 @@
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\bin\Debug\WPF Zoo Manager.exe.config
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\bin\Debug\WPF Zoo Manager.exe
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\bin\Debug\WPF Zoo Manager.pdb
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\obj\Debug\WPF Zoo Manager.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\obj\Debug\App.g.cs
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\obj\Debug\WPF Zoo Manager_MarkupCompile.cache
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\obj\Debug\WPF Zoo Manager_MarkupCompile.lref
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\obj\Debug\MainWindow.baml
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\obj\Debug\WPF Zoo Manager.g.resources
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\obj\Debug\WPF_Zoo_Manager.Properties.Resources.resources
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\obj\Debug\WPF Zoo Manager.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\obj\Debug\WPF Zoo Manager.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\obj\Debug\WPF Zoo Manager.exe
+C:\Users\Pedro\source\repos\C# class\WPF Zoo Manager\WPF Zoo Manager\obj\Debug\WPF Zoo Manager.pdb

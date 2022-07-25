@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\bin\Debug\net5.0\DateTime Examples.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\bin\Debug\net5.0\DateTime Examples.deps.json
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\bin\Debug\net5.0\DateTime Examples.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\bin\Debug\net5.0\DateTime Examples.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\bin\Debug\net5.0\DateTime Examples.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\bin\Debug\net5.0\ref\DateTime Examples.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\bin\Debug\net5.0\DateTime Examples.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\obj\Debug\net5.0\DateTime Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\obj\Debug\net5.0\DateTime Examples.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\obj\Debug\net5.0\DateTime Examples.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\obj\Debug\net5.0\DateTime Examples.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\obj\Debug\net5.0\DateTime Examples.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\obj\Debug\net5.0\ref\DateTime Examples.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\obj\Debug\net5.0\DateTime Examples.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\obj\Debug\net5.0\DateTime Examples.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\DateTime Examples\DateTime Examples\obj\Debug\net5.0\DateTime Examples.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\bin\Debug\net5.0\Inheritance Demo.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\bin\Debug\net5.0\Inheritance Demo.deps.json
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\bin\Debug\net5.0\Inheritance Demo.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\bin\Debug\net5.0\Inheritance Demo.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\bin\Debug\net5.0\Inheritance Demo.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\bin\Debug\net5.0\ref\Inheritance Demo.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\bin\Debug\net5.0\Inheritance Demo.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\obj\Debug\net5.0\Inheritance Demo.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\obj\Debug\net5.0\Inheritance Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\obj\Debug\net5.0\Inheritance Demo.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\obj\Debug\net5.0\Inheritance Demo.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\obj\Debug\net5.0\Inheritance Demo.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\obj\Debug\net5.0\Inheritance Demo.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\obj\Debug\net5.0\ref\Inheritance Demo.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\obj\Debug\net5.0\Inheritance Demo.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 7 - Inheritance and more about OOP\Inheritance Demo\Inheritance Demo\obj\Debug\net5.0\Inheritance Demo.genruntimeconfig.cache

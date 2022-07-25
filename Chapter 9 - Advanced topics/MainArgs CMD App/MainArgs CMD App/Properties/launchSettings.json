@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "MainArgs CMD App": {
+      "commandName": "Project"
+    }
+  }
+}

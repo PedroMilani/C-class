@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 14 Data-Property-Trigger\WPF 14 Data-Property-Trigger\bin\Debug\WPF 14 Data-Property-Trigger.exe.config
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 14 Data-Property-Trigger\WPF 14 Data-Property-Trigger\bin\Debug\WPF 14 Data-Property-Trigger.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 14 Data-Property-Trigger\WPF 14 Data-Property-Trigger\bin\Debug\WPF 14 Data-Property-Trigger.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 14 Data-Property-Trigger\WPF 14 Data-Property-Trigger\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 14 Data-Property-Trigger\WPF 14 Data-Property-Trigger\obj\Debug\App.g.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 14 Data-Property-Trigger\WPF 14 Data-Property-Trigger\obj\Debug\WPF 14 Data-Property-Trigger_MarkupCompile.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 14 Data-Property-Trigger\WPF 14 Data-Property-Trigger\obj\Debug\WPF 14 Data-Property-Trigger_MarkupCompile.lref
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 14 Data-Property-Trigger\WPF 14 Data-Property-Trigger\obj\Debug\MainWindow.baml
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 14 Data-Property-Trigger\WPF 14 Data-Property-Trigger\obj\Debug\WPF 14 Data-Property-Trigger.g.resources
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 14 Data-Property-Trigger\WPF 14 Data-Property-Trigger\obj\Debug\WPF_14_Data_Property_Trigger.Properties.Resources.resources
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 14 Data-Property-Trigger\WPF 14 Data-Property-Trigger\obj\Debug\WPF 14 Data-Property-Trigger.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 14 Data-Property-Trigger\WPF 14 Data-Property-Trigger\obj\Debug\WPF 14 Data-Property-Trigger.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 14 Data-Property-Trigger\WPF 14 Data-Property-Trigger\obj\Debug\WPF 14 Data-Property-Trigger.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 14 Data-Property-Trigger\WPF 14 Data-Property-Trigger\obj\Debug\WPF 14 Data-Property-Trigger.pdb

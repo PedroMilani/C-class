@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\bin\Debug\net5.0\Write into txt.exe
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\bin\Debug\net5.0\Write into txt.deps.json
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\bin\Debug\net5.0\Write into txt.runtimeconfig.json
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\bin\Debug\net5.0\Write into txt.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\bin\Debug\net5.0\Write into txt.dll
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\bin\Debug\net5.0\ref\Write into txt.dll
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\bin\Debug\net5.0\Write into txt.pdb
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\obj\Debug\net5.0\Write into txt.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\obj\Debug\net5.0\Write into txt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\obj\Debug\net5.0\Write into txt.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\obj\Debug\net5.0\Write into txt.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\obj\Debug\net5.0\Write into txt.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\obj\Debug\net5.0\Write into txt.dll
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\obj\Debug\net5.0\ref\Write into txt.dll
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\obj\Debug\net5.0\Write into txt.pdb
+C:\Users\Pedro\source\repos\Write into txt\Write into txt\obj\Debug\net5.0\Write into txt.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\bin\Debug\net5.0\ThreadJoinIsAlive.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\bin\Debug\net5.0\ThreadJoinIsAlive.deps.json
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\bin\Debug\net5.0\ThreadJoinIsAlive.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\bin\Debug\net5.0\ThreadJoinIsAlive.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\bin\Debug\net5.0\ThreadJoinIsAlive.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\bin\Debug\net5.0\ref\ThreadJoinIsAlive.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\bin\Debug\net5.0\ThreadJoinIsAlive.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\net5.0\ThreadJoinIsAlive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\net5.0\ThreadJoinIsAlive.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\net5.0\ThreadJoinIsAlive.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\net5.0\ThreadJoinIsAlive.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\net5.0\ThreadJoinIsAlive.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\net5.0\ref\ThreadJoinIsAlive.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\net5.0\ThreadJoinIsAlive.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 13 - Threads\ThreadJoinIsAlive\ThreadJoinIsAlive\obj\Debug\net5.0\ThreadJoinIsAlive.genruntimeconfig.cache

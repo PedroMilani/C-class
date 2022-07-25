@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\bin\Debug\net5.0\MainArgs CMD App.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\bin\Debug\net5.0\MainArgs CMD App.deps.json
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\bin\Debug\net5.0\MainArgs CMD App.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\bin\Debug\net5.0\MainArgs CMD App.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\bin\Debug\net5.0\MainArgs CMD App.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\bin\Debug\net5.0\ref\MainArgs CMD App.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\bin\Debug\net5.0\MainArgs CMD App.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\obj\Debug\net5.0\MainArgs CMD App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\obj\Debug\net5.0\MainArgs CMD App.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\obj\Debug\net5.0\MainArgs CMD App.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\obj\Debug\net5.0\MainArgs CMD App.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\obj\Debug\net5.0\MainArgs CMD App.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\obj\Debug\net5.0\ref\MainArgs CMD App.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\obj\Debug\net5.0\MainArgs CMD App.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\obj\Debug\net5.0\MainArgs CMD App.genruntimeconfig.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 9 - Advanced topics\MainArgs CMD App\MainArgs CMD App\obj\Debug\net5.0\MainArgs CMD App.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\bin\Debug\net5.0\LinqXML.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\bin\Debug\net5.0\LinqXML.deps.json
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\bin\Debug\net5.0\LinqXML.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\bin\Debug\net5.0\LinqXML.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\bin\Debug\net5.0\LinqXML.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\bin\Debug\net5.0\ref\LinqXML.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\bin\Debug\net5.0\LinqXML.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\obj\Debug\net5.0\LinqXML.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\obj\Debug\net5.0\LinqXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\obj\Debug\net5.0\LinqXML.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\obj\Debug\net5.0\LinqXML.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\obj\Debug\net5.0\LinqXML.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\obj\Debug\net5.0\LinqXML.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\obj\Debug\net5.0\ref\LinqXML.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\obj\Debug\net5.0\LinqXML.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 12 - Linq\LinqXML\LinqXML\obj\Debug\net5.0\LinqXML.genruntimeconfig.cache

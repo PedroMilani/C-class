@@ -1,0 +1,30 @@
+﻿<Window x:Class="WPF_13_RadioButtons.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_13_RadioButtons"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Background="LightBlue">
+        <Label FontWeight="Bold" FontSize="40">Is RadioButton useful?</Label>
+        <RadioButton Margin="5" VerticalContentAlignment="Center" Checked="Yes_Checked">
+            <WrapPanel>
+                <Rectangle Fill="Green" Width="55" Height="36"></Rectangle>
+                <TextBlock Foreground="Green" Margin="5,0,0,0" FontSize="40">Yes</TextBlock>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton Margin="5" VerticalContentAlignment="Center" Checked="No_Checked">
+            <WrapPanel>
+                <Rectangle Fill="Red" Width="55" Height="36"></Rectangle>
+                <TextBlock Foreground="Red" Margin="5,0,0,0" FontSize="40">No</TextBlock>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton Margin="5" VerticalContentAlignment="Center" Checked="Maybe_Checked">
+            <WrapPanel>
+                <Image Source="C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 13 RadioButtons\maybe.png" Width="55" Height="36"></Image>
+                <TextBlock Foreground="Black" Margin="5,0,0,0" FontSize="40">Maybe</TextBlock>
+            </WrapPanel>
+        </RadioButton>
+    </StackPanel>
+</Window>

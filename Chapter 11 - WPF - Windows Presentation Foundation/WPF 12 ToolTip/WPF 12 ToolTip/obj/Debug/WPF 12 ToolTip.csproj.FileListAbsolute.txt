@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 12 ToolTip\WPF 12 ToolTip\bin\Debug\WPF 12 ToolTip.exe.config
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 12 ToolTip\WPF 12 ToolTip\bin\Debug\WPF 12 ToolTip.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 12 ToolTip\WPF 12 ToolTip\bin\Debug\WPF 12 ToolTip.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\App.g.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF 12 ToolTip_MarkupCompile.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF 12 ToolTip_MarkupCompile.lref
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\MainWindow.baml
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF 12 ToolTip.g.resources
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF_12_ToolTip.Properties.Resources.resources
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF 12 ToolTip.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF 12 ToolTip.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF 12 ToolTip.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 12 ToolTip\WPF 12 ToolTip\obj\Debug\WPF 12 ToolTip.pdb

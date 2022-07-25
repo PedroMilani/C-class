@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\bin\Debug\net5.0\IEnumerableAndIEnumerator.exe
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\bin\Debug\net5.0\IEnumerableAndIEnumerator.deps.json
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\bin\Debug\net5.0\IEnumerableAndIEnumerator.runtimeconfig.json
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\bin\Debug\net5.0\IEnumerableAndIEnumerator.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\bin\Debug\net5.0\IEnumerableAndIEnumerator.dll
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\bin\Debug\net5.0\ref\IEnumerableAndIEnumerator.dll
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\bin\Debug\net5.0\IEnumerableAndIEnumerator.pdb
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\obj\Debug\net5.0\IEnumerableAndIEnumerator.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\obj\Debug\net5.0\IEnumerableAndIEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\obj\Debug\net5.0\IEnumerableAndIEnumerator.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\obj\Debug\net5.0\IEnumerableAndIEnumerator.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\obj\Debug\net5.0\IEnumerableAndIEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\obj\Debug\net5.0\IEnumerableAndIEnumerator.dll
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\obj\Debug\net5.0\ref\IEnumerableAndIEnumerator.dll
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\obj\Debug\net5.0\IEnumerableAndIEnumerator.pdb
+C:\Users\Pedro\source\repos\IEnumerableAndIEnumerator\IEnumerableAndIEnumerator\obj\Debug\net5.0\IEnumerableAndIEnumerator.genruntimeconfig.cache

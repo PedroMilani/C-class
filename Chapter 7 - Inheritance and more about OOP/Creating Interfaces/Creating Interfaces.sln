@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creating Interfaces", "Creating Interfaces\Creating Interfaces.csproj", "{DDCD064A-AE69-489E-B9C4-B8E5F72D6924}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDCD064A-AE69-489E-B9C4-B8E5F72D6924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCD064A-AE69-489E-B9C4-B8E5F72D6924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCD064A-AE69-489E-B9C4-B8E5F72D6924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCD064A-AE69-489E-B9C4-B8E5F72D6924}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEB70E0A-55D8-4FFD-8D41-1096AFC3D29E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 06 Dependency\WPF 06 - Dependency\bin\Debug\WPF 06 - Dependency.exe.config
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 06 Dependency\WPF 06 - Dependency\bin\Debug\WPF 06 - Dependency.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 06 Dependency\WPF 06 - Dependency\bin\Debug\WPF 06 - Dependency.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 06 Dependency\WPF 06 - Dependency\obj\Debug\MainWindow.g.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 06 Dependency\WPF 06 - Dependency\obj\Debug\App.g.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 06 Dependency\WPF 06 - Dependency\obj\Debug\WPF 06 - Dependency_MarkupCompile.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 06 Dependency\WPF 06 - Dependency\obj\Debug\WPF 06 - Dependency_MarkupCompile.lref
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 06 Dependency\WPF 06 - Dependency\obj\Debug\MainWindow.baml
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 06 Dependency\WPF 06 - Dependency\obj\Debug\WPF 06 - Dependency.g.resources
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 06 Dependency\WPF 06 - Dependency\obj\Debug\WPF_06___Dependency.Properties.Resources.resources
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 06 Dependency\WPF 06 - Dependency\obj\Debug\WPF 06 - Dependency.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 06 Dependency\WPF 06 - Dependency\obj\Debug\WPF 06 - Dependency.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 06 Dependency\WPF 06 - Dependency\obj\Debug\WPF 06 - Dependency.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 11 - WPF - Windows Presentation Foundation\WPF 06 Dependency\WPF 06 - Dependency\obj\Debug\WPF 06 - Dependency.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="WPFTask.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFTask"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="632.143" Width="1140.476">
+    <Grid Margin="0,0,0,43">
+        <Button Name="MyButton" Content="Button (Dispatcher)" FontSize="40" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="385" Height="102" Click="MyButton_Click" />
+        <Button Name="MyButton2" Content="Button (await Task)" FontSize="40" HorizontalAlignment="Left" Margin="418,10,0,0" VerticalAlignment="Top" Width="385" RenderTransformOrigin="-0.641,-0.714" Height="102" Click="MyButton2_Click"/>
+        <WebBrowser Name="MyWebBrowser" HorizontalAlignment="Left" Height="339" Margin="10,253,0,-34" VerticalAlignment="Top" Width="1112"/>
+        <Button Name="MyButton3" Content="Google" FontSize="40" HorizontalAlignment="Left" Margin="10,139,0,0" VerticalAlignment="Top" Width="385" Height="90" Click="MyButton3_Click"/>
+
+    </Grid>
+</Window>

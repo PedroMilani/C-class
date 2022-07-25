@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable GetCollection", "IEnumerable GetCollection\IEnumerable GetCollection.csproj", "{70002D72-F206-4E41-9FC1-BFCB1EE45608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70002D72-F206-4E41-9FC1-BFCB1EE45608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70002D72-F206-4E41-9FC1-BFCB1EE45608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70002D72-F206-4E41-9FC1-BFCB1EE45608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70002D72-F206-4E41-9FC1-BFCB1EE45608}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0550AC2-5314-4C44-A4CF-C4223413ED2B}
+	EndGlobalSection
+EndGlobal
