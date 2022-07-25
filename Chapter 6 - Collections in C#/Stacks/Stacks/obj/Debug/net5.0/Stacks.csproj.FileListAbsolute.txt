@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\bin\Debug\net5.0\Stacks.exe
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\bin\Debug\net5.0\Stacks.deps.json
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\bin\Debug\net5.0\Stacks.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\bin\Debug\net5.0\Stacks.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\bin\Debug\net5.0\Stacks.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\bin\Debug\net5.0\ref\Stacks.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\bin\Debug\net5.0\Stacks.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\obj\Debug\net5.0\Stacks.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\obj\Debug\net5.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\obj\Debug\net5.0\Stacks.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\obj\Debug\net5.0\Stacks.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\obj\Debug\net5.0\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\obj\Debug\net5.0\Stacks.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\obj\Debug\net5.0\ref\Stacks.dll
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\obj\Debug\net5.0\Stacks.pdb
+C:\Users\Pedro\source\repos\C# class\Chapter 6 - Collections in C#\Stacks\Stacks\obj\Debug\net5.0\Stacks.genruntimeconfig.cache
