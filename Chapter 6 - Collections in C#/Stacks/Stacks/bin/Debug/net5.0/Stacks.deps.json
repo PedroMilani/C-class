@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Stacks/1.0.0": {
+        "runtime": {
+          "Stacks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stacks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Stacks/1.0.0": {
+        "runtime": {
+          "Stacks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stacks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> parent of 2f74282 (Delete Chapter 6 - Collections in C# directory)
+}

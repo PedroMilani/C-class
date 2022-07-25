@@ -1,0 +1,16 @@
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\obj\Debug\net5.0\Declaring and Initializing Arrays.csproj.AssemblyReference.cache
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\obj\Debug\net5.0\Declaring and Initializing Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\obj\Debug\net5.0\Declaring and Initializing Arrays.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\obj\Debug\net5.0\Declaring and Initializing Arrays.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\obj\Debug\net5.0\Declaring and Initializing Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\bin\Debug\net5.0\Declaring and Initializing Arrays.exe
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\bin\Debug\net5.0\Declaring and Initializing Arrays.deps.json
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\bin\Debug\net5.0\Declaring and Initializing Arrays.runtimeconfig.json
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\bin\Debug\net5.0\Declaring and Initializing Arrays.runtimeconfig.dev.json
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\bin\Debug\net5.0\Declaring and Initializing Arrays.dll
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\bin\Debug\net5.0\ref\Declaring and Initializing Arrays.dll
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\bin\Debug\net5.0\Declaring and Initializing Arrays.pdb
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\obj\Debug\net5.0\Declaring and Initializing Arrays.dll
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\obj\Debug\net5.0\ref\Declaring and Initializing Arrays.dll
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\obj\Debug\net5.0\Declaring and Initializing Arrays.pdb
+C:\Users\Pedro\source\repos\C# Master Class\Chapter 6 - Collections in C#\Declaring and Initializing Arrays\Declaring and Initializing Arrays\obj\Debug\net5.0\Declaring and Initializing Arrays.genruntimeconfig.cache
